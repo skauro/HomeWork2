@@ -13,7 +13,6 @@
 #include <stop_token>
 #include <barrier>
 
-
 using namespace std;
 
 static string BIRDS_FILENAME = "Birds.txt";
